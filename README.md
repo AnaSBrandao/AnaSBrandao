@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnaSBrandao
 - 👀 I’m interested in software development area
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS.
 - 📫 How to reach me: ana.1998@hotmail.com
 - 
 <!---
